@@ -1,0 +1,28 @@
+step1:instal nodejs
+https://nodejs.org/en/download
+to verify the varsion of nodejs in cmd type node -v  
+
+step2:instal angular cli using cmd
+npm install -g @angular/cli
+to verify the varsion of angular cli in cmd type ng -v  
+
+step3:install visual studio code
+https://code.visualstudio.com/download
+
+
+step4: creat a new angular project
+type command in cmd ng new Angularcrud --skip-tests true
+
+step5:install bootstarp
+npm install bootstrap@3 --save
+
+
+
+
+
+
+
+
+
+
+
